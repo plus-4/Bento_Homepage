@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'plus-4',
-	imageBackground: 'background.jpg',
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
