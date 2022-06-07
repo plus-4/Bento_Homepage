@@ -67,7 +67,8 @@ const CONFIG = {
 			id: '3',
 			name: 'Novel',
 			icon: 'book-open',
-			link: 'https://ranobes.net/'
+			link: 'https://ranobes.net/',
+		},
 		{
 			id: '4',
 			name: 'Calendar',
