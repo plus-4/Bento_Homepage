@@ -65,10 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
+			name: 'Novel',
+			icon: 'book-open',
+			link: 'https://ranobes.net/'
 		{
 			id: '4',
 			name: 'Calendar',
@@ -77,9 +76,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Chess',
+			icon: 'crown',
+			link: 'https://www.chess.com/home',
 		},
 		{
 			id: '6',
